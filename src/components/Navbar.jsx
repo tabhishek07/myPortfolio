@@ -22,7 +22,7 @@ const Navbar = () => {
 
         {/* GitHub Link */}
         <a
-          href="https://github.com/your-profile"
+          href="https://github.com/tabhishek07"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:opacity-80"
