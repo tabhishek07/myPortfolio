@@ -32,7 +32,7 @@ const Navbar = () => {
 
         {/* Twitter (X) Link */}
         <a
-          href="https://twitter.com/your-profile"
+          href="https://x.com/tabhishek__?t=lN3_nCAZcuMm4tRuG2nGzw&s=09"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:opacity-80"
