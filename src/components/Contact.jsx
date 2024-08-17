@@ -21,7 +21,7 @@ const Contact = ()=>{
                 initial={{opacity:0, x: 100}}
                 transition={{duration: 1.5}}
                 className="my-3">{CONTACT.phoneNo}</motion.p>
-                <a href="tabhishek2002@gmail.com" className="border-b cursor-pointer">{CONTACT.email}</a>
+                <a href="mailto:tabhishek2002@gmail.com" className="border-b cursor-pointer">{CONTACT.email}</a>
             </div>
         </div>
     );
